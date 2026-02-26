@@ -1,6 +1,6 @@
-# 🛒 Sistem Toko Sembako Jaya (C++ & SQLite)
+# 🛒 Sistem Toko Sembako (C++ & SQLite)
 
-Sistem manajemen inventaris dan kasir berbasis terminal (CLI) yang dirancang untuk membantu operasional toko kelontong dengan penyimpanan data permanen.
+Sistem manajemen inventaris dan kasir berbasis terminal (CLI) yang dirancang untuk membantu operasional toko dengan penyimpanan data permanen.
 
 ## 🚀 Fitur Utama
 - **Akses Berbasis Peran**: Menu berbeda untuk Kasir (transaksi) dan Admin (manajemen stok).
