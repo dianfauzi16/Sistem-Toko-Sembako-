@@ -34,7 +34,7 @@ Sistem manajemen inventaris dan kasir berbasis terminal (CLI) yang dirancang unt
    ```Bash
    ./program
 
-👤 Pengembang
-Nama: M Dian Fauzi
-Instansi: Amikom University Yogyakarta
-Jurusan: Informatics
+## 👤 Pengembang
+- **Nama**: M Dian Fauzi
+- **Instansi**: Amikom University Yogyakarta
+- **Jurusan**: Informatika
